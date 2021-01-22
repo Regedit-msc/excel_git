@@ -5468,7 +5468,7 @@ a {
   z-index: 1;
 }
 .u-form-send-error {
-  background: #515cf9;
+  background: #0379e7;
 }
 .u-form-send-success {
   background: #62C584;
@@ -31790,7 +31790,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  filter: brightness(0.8);
   margin: 1px 1076px 0 0;
 }
 

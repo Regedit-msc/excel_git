@@ -29,7 +29,7 @@
     <meta property="og:url" content="index.html">
   </head>
   <body class="u-body"><header class="u-clearfix u-header u-sticky u-header" id="sec-7759"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="Home.html#sec-b5dd" data-page-id="75887059" class="u-image u-logo u-image-1" data-image-width="1080" data-image-height="1080" title="Home" data-animation-name="zoomIn" data-animation-duration="4750" data-animation-delay="0" data-animation-direction="Right">
+        <a href="Home.html#sec-b5dd" data-page-id="75887059" class="u-image u-image-circle u-logo u-image-1" data-image-width="1080" data-image-height="1080" title="Home">
           <img src="images/favicon.jpg" class="u-logo-image u-logo-image-1" data-image-width="38">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-offcanvas-shift u-menu-1" data-submenu-level="on-click" data-responsive-from="MD">
