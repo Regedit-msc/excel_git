@@ -5468,7 +5468,7 @@ a {
   z-index: 1;
 }
 .u-form-send-error {
-  background: #03c4ff;
+  background: #00eeff;
 }
 .u-form-send-success {
   background: #62C584;
@@ -31839,7 +31839,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 51px;
+    min-height: 52px;
   }
 
   .u-header .u-image-1 {
@@ -31857,7 +31857,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -38px;
-    margin-bottom: 5px;
+    margin-bottom: 12px;
   }
 }
 .u-footer {
