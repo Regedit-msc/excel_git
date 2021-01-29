@@ -1,6 +1,6 @@
 .u-section-1 {
-  background-position: 50% 50%;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+  background-position: 50% 54.24%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75));
 }
 
 .u-section-1 .u-sheet-1 {
@@ -12,45 +12,55 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 265px 320px 60px 371px;
+  margin: 159px 320px 60px 371px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 660px;
+    min-height: 674px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 220px;
-    margin-left: 271px;
-    width: 398px;
+    width: 436px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 220px;
-    margin-left: 271px;
+    width: 449px;
+    margin-top: 107px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 @media (max-width: 991px) {
+  .u-section-1 {
+    background-size: 125%;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 506px;
+    min-height: 595px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 161px;
-    margin-right: 110px;
+    width: 442px;
+    margin-top: 211px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 110px;
-    margin-left: 161px;
+    margin-top: 100px;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 {
+    background-position: 50.24% 54.24%;
+    background-size: 180%;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 380px;
+    min-height: 446px;
   }
 
   .u-section-1 .u-text-1 {
@@ -65,19 +75,27 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 {
+    background-position: 82.58% 68.02%;
+    background-size: auto 185%;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 502px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
+    margin-top: 191px;
+    margin-left: 24px;
+    margin-right: 24px;
     width: 340px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 0;
-    margin-left: 0;
+    margin-top: 67px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 340px;
   }
 }.u-section-2 {
   background-image: none;

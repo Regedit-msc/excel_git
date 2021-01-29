@@ -31980,23 +31980,43 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
-    margin-right: 656px;
+    margin-top: 5px;
+    margin-right: auto;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -48px;
+    margin-bottom: 22px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-image-1 {
-    margin-right: 476px;
+    margin-top: 6px;
+  }
+
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: -48px;
+    margin-bottom: 22px;
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 81px;
+  }
+
   .u-header .u-image-1 {
-    margin-bottom: 1px;
-    margin-right: 0;
+    margin-top: 9px;
   }
 
   .u-header .u-logo-image-1 {
-    max-width: 70px;
-    max-height: 70px;
+    max-width: 63px;
+    max-height: 63px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -48px;
+    margin-bottom: 24px;
   }
 }
 .u-footer .u-sheet-1 {
